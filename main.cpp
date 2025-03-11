@@ -12,7 +12,7 @@ int main() {
   enum main {
     trapezoid = 1,
   };
-  cout << "бааллалалала";
+  cout << "Введите фигуру, которую хотите рассчитать: \n Трапеция - 1 \n ";
   cin >> choose;
   switch (choose) {
   case main::trapezoid:
