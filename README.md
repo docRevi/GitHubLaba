@@ -25,16 +25,14 @@
 geometry/
 ├── main.cpp
 ├── a.cpp
-├── rectangle.h
 ├── trapezoid.cpp
-├── trapezoid.h
-├── circle.cpp
-├── circle.h
+├── triangle.cpp
+├── qwer.cpp
 └── README.md
 
 
 * `main.cpp`: Основной файл программы.
-* `rectangle.cpp`, `trapezoid.cpp`, , `circle.cpp`: Файлы реализации классов.
+* `rectangle.cpp`, `trapezoid.cpp`, , `triangle.cpp`: Файлы реализации функций.
 * `README.md`: Этот файл.
 
 ## Авторы
